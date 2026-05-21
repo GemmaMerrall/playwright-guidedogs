@@ -13,4 +13,5 @@ test('form shows errors when submitted empty', async ({ page }) => {
   await namePuppyPage.namingDropdown.selectOption('group');
   await namePuppyPage.submitButton.click();
  await expect(page.getByText('First name is required.')).toBeVisible();
+ await expect(page.getByRole('textbox', { name: 'First name' })).toBeVisible();
 });

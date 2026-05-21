@@ -2,7 +2,7 @@
 [90m┌[39m  Building storybook v10.2.13
 [90m│[39m
 [32m◇[39m  Cleaning outputDir:
-[90m│[39m  [36m../AppData/Local/Temp/chromatic--30280-i78zSyLxJxYy[39m
+[90m│[39m  [36m../AppData/Local/Temp/chromatic--27564-tSzard7biOpp[39m
 [90m│[39m
 [32m◇[39m  Loading presets
 [90m│[39m
@@ -29,10 +29,10 @@
 [34m●[39m  Using default Webpack5 setup
 [90m│[39m
 [34m●[39m  Copying static files: [36mtest-results\chromatic-archives\archive[39m at
-[90m│[39m  [36m..\AppData\Local\Temp\chromatic--30280-i78zSyLxJxYy[39m
+[90m│[39m  [36m..\AppData\Local\Temp\chromatic--27564-tSzard7biOpp[39m
 [90m│[39m
 [32m◇[39m  Output directory:
-[90m│[39m  C:/Users/james/AppData/Local/Temp/chromatic--30280-i78zSyLxJxYy
+[90m│[39m  C:/Users/james/AppData/Local/Temp/chromatic--27564-tSzard7biOpp
 [90m│[39m
 [90m└[39m  Storybook build completed successfully
 
