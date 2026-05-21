@@ -1,4 +1,4 @@
-import { test, expect, takeSnapshot } from '@chromatic-com/playwright';
+import { test, expect } from '@playwright/test';
 import { NamePuppyPage } from './namePuppyPage';
 
 test('name a puppy form loads', async ({ page }) => {

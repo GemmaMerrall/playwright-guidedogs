@@ -1,4 +1,4 @@
-import { test, expect } from '@chromatic-com/playwright';
+import { test, expect } from '@playwright/test';
 import { HomePage } from './homePage';
 
 test('guide dogs homepage loads', async ({ page }) => {
