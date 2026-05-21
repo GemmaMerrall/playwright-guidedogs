@@ -30,7 +30,7 @@ test('can type in the search box and submit', async ({ page, browserName }) => {
   test.skip(browserName === 'webkit', 'Search submit behaves differently in Safari');
   const homePage = new HomePage(page);
   await homePage.goto();
-  await homePage.searchBox.fill('sponsor a dog');
+  await homePage.searchBox.fill('guide dogs');
   await homePage.searchButton.click();
   await expect(page).toHaveURL(/search/);
 });
