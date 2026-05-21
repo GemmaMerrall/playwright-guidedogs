@@ -10,7 +10,7 @@ test('name a puppy form loads', async ({ page }) => {
 test('form shows errors when submitted empty', async ({ page }) => {
   const namePuppyPage = new NamePuppyPage(page);
   await namePuppyPage.goto();
-  await namePuppyPage.namingDropdown.selectOption('individual');
+  await namePuppyPage.namingDropdown.selectOption('group');
   await namePuppyPage.submitButton.click();
  await expect(page.getByText('First name is required.')).toBeVisible();
 });

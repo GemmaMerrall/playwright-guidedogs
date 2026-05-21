@@ -1,0 +1,38 @@
+
+[90m┌[39m  Building storybook v10.2.13
+[90m│[39m
+[32m◇[39m  Cleaning outputDir:
+[90m│[39m  [36m../AppData/Local/Temp/chromatic--30280-i78zSyLxJxYy[39m
+[90m│[39m
+[32m◇[39m  Loading presets
+[90m│[39m
+[32m◇[39m  Building manager..
+[90m│[39m
+[33m▲[39m  unable to find package.json for @chromatic-com/shared-e2e
+[90m│[39m
+[33m▲[39m  unable to find package.json for @rrweb/types
+[90m│[39m
+[33m▲[39m  unable to find package.json for @storybook/builder-webpack5
+[90m│[39m
+[33m▲[39m  unable to find package.json for @storybook/server
+[90m│[39m
+[33m▲[39m  unable to find package.json for @storybook/server-webpack5
+[90m│[39m
+[33m▲[39m  unable to find package.json for express
+[90m│[39m
+[33m▲[39m  unable to find package.json for ts-dedent
+[90m│[39m
+[34m●[39m  Building preview..
+[90m│[39m
+[34m●[39m  Using implicit CSS loaders
+[90m│[39m
+[34m●[39m  Using default Webpack5 setup
+[90m│[39m
+[34m●[39m  Copying static files: [36mtest-results\chromatic-archives\archive[39m at
+[90m│[39m  [36m..\AppData\Local\Temp\chromatic--30280-i78zSyLxJxYy[39m
+[90m│[39m
+[32m◇[39m  Output directory:
+[90m│[39m  C:/Users/james/AppData/Local/Temp/chromatic--30280-i78zSyLxJxYy
+[90m│[39m
+[90m└[39m  Storybook build completed successfully
+
